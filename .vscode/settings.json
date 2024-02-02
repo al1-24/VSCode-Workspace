@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "D:/Users/al124/Developpement/GitHub/TTGO_Test/Essai ESP32 TTGO/.pio/libdeps/esp32dev/TFT_eSPI"
+    "cmake.sourceDirectory": "D:/Users/al124/Developpement/GitHub/TTGO_Test/Essai ESP32 TTGO/.pio/libdeps/esp32dev/TFT_eSPI",
+    "cmake.configureOnOpen": false
 }
